@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elyas forghani</h1>
-<h3 align="center">iranian passionate frontend developer</h3>
+<h3 align="center">passionate frontend develope learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyasforghani&label=Profile%20views&color=0e75b6&style=flat" alt="elyasforghani" /> </p>
 

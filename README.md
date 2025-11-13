@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h4 align="left">(instagram)</h4> <a href="https://www.instagram.com/elyasforqani/?utm_source=qr&r=nametag" >instagram</a> 
+<h4 align="left">(instagram)</h4> <a href="https://www.instagram.com/elyasforqani.dev?igsh=MTlvenk0eTduZmtxdg==" >instagram</a> 
 <h4 align="left">(LinkedIn)</h4> <a href="https://www.linkedin.com/in/alireza-forghani-b4746b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >linkedin</a> 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elyas forghani🎭</h1>
 
 <h3 align="center">passionate frontend development learner </h3>
-<img src="https://github.com/user-attachments/assets/6853d771-f0a7-4275-b995-4909e4bd6e1a">
+<img align="center" src="https://github.com/user-attachments/assets/6853d771-f0a7-4275-b995-4909e4bd6e1a">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyasforghani&label=Profile%20views&color=0e75b6&style=flat" alt="elyasforghani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyasforghani" alt="elyasforghani" /></a> </p>
+
 
 <h3 align="left">🗿📱How to Connect with me:</h3>
 <p align="left">

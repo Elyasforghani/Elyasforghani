@@ -9,9 +9,18 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elyasforqani.dev?igsh=MTlvenk0eTduZmtxdg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alireza-forghani-b4746b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasfgidev@gmail.com) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
- <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elyasforghani&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elyasforghani&theme=merko&hide_border=false)<br/>
@@ -20,8 +29,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elyasforghani&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+### ✍️ Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
+</p
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elyasforghani&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
@@ -53,7 +64,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4 align="center">🎲 Modern Dice Game</h4>
       <img src="https://github.com/user-attachments/assets/920434d0-9a7f-4e78-85ad-7f76cb469aa7" width="100%" alt="Dice Game Preview"/>
       <p>Interactive multiplayer game with real-time state management and dynamic DOM updates.</p>
@@ -66,59 +77,13 @@
         <a href="https://elyasforghani.github.io/dice-game/"><b>Live Demo</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">✨ Your Next Project</h4>
-      <img src="https://via.placeholder.com/400x200/222/fff?text=New+Project+Coming+Soon" width="100%" alt="Placeholder"/>
-      <p>This space is reserved for your next big creation! Stay tuned for more interactive web apps.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
-      </p>
-      <p align="center">
-        <b>Coming Soon</b>
-      </p>
-    </td>
+   
   </tr>
 </table>
 
 ---
 
-### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
 
----
 
-### 📊 GitHub Ecosystem
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=elyasforghani&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="General Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyasforghani&theme=merko&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=elyasforghani&theme=merko&hide_border=true" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elyasforghani&theme=gruvbox_light&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### ✍️ Daily Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
-</p

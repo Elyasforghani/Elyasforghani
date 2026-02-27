@@ -28,14 +28,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elyasforghani&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Elyas Forghani</h1>
 <p align="center">
   <strong>Passionate Frontend Developer | Crafting Clean & Interactive Web Experiences</strong>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/elyasforqani.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/elyasforqani.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/alireza-forghani-b4746b263"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:elyasfgidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -55,23 +54,28 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎲 Modern Dice Game</h4>
-      <img src="https://github.com/user-attachments/assets/920434d0-9a7f-4e78-85ad-7f76cb469aa7" width="100%" alt="Dice Game"/>
-      <p>A fully interactive multiplayer game featuring real-time state management and dynamic DOM updates.</p>
-      <p>
+      <h4 align="center">🎲 Modern Dice Game</h4>
+      <img src="https://github.com/user-attachments/assets/920434d0-9a7f-4e78-85ad-7f76cb469aa7" width="100%" alt="Dice Game Preview"/>
+      <p>Interactive multiplayer game with real-time state management and dynamic DOM updates.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/elyasforghani/dice-game"><b>View Repo</b></a> | <a href="https://elyasforghani.github.io/dice-game/"><b>Live Demo</b></a>
+      <p align="center">
+        <a href="https://github.com/elyasforghani/dice-game"><b>View Repo</b></a> | 
+        <a href="https://elyasforghani.github.io/dice-game/"><b>Live Demo</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ Your Next Project</h4>
-      <img src="https://via.placeholder.com/400x200?text=Coming+Soon" width="100%" alt="Placeholder"/>
-      <p>This space is reserved for your next big creation! Perhaps a Weather App, Todo List, or E-commerce clone?</p>
-      <p>
-        <img src="https://img.shields.io/badge/Future-Tech-lightgrey?style=flat-square" />
+      <h4 align="center">✨ Your Next Project</h4>
+      <img src="https://via.placeholder.com/400x200/222/fff?text=New+Project+Coming+Soon" width="100%" alt="Placeholder"/>
+      <p>This space is reserved for your next big creation! Stay tuned for more interactive web apps.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
       </p>
-      <a href="#"><b>View Repo</b></a> | <a href="#"><b>Live Demo</b></a>
+      <p align="center">
+        <b>Coming Soon</b>
+      </p>
     </td>
   </tr>
 </table>
@@ -117,11 +121,4 @@
 ### ✍️ Daily Inspiration
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=elyasforghani&icon=0&color=0" alt="Visitor Count" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</p

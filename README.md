@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Elyas forghani🎭</h1>
+<h1 align="center">Hi 👋, I'm Elyas Forghani</h1>
+<p align="center">
+  <strong>Passionate Frontend Developer | Crafting Clean & Interactive Web Experiences</strong>
+</p>
 
-<h3 align="center">passionate frontend development learner </h3>
+<p align="center">
+  <a href="https://www.instagram.com/elyasforqani.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/alireza-forghani-b4746b263"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:elyasfgidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+---
 
-# 💫 About Me:
-🔭 learning frontend<br>
+### 💫 About Me
+- 🔭 **Currently focusing on:** Advanced Frontend Development and UI/UX patterns.
+- 🌱 **Learning:** Deepening my knowledge in **React.js** and **Modern JavaScript (ES6+)**.
+- ⚡ **Goal:** Building high-performance, responsive web applications.
+- 🎨 **Passion:** I love turning complex designs into functional, pixel-perfect code.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elyasforqani.dev?igsh=MTlvenk0eTduZmtxdg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alireza-forghani-b4746b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasfgidev@gmail.com) 
-
+---
 
 ### 💻 Tech Stack
 
@@ -39,26 +47,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elyasforghani&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hi 👋, I'm Elyas Forghani</h1>
-<p align="center">
-  <strong>Passionate Frontend Developer | Crafting Clean & Interactive Web Experiences</strong>
-</p>
 
-<p align="center">
-  <a href="https://www.instagram.com/elyasforqani.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/alireza-forghani-b4746b263"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:elyasfgidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
----
-
-### 💫 About Me
-- 🔭 **Currently focusing on:** Advanced Frontend Development and UI/UX patterns.
-- 🌱 **Learning:** Deepening my knowledge in **React.js** and **Modern JavaScript (ES6+)**.
-- ⚡ **Goal:** Building high-performance, responsive web applications.
-- 🎨 **Passion:** I love turning complex designs into functional, pixel-perfect code.
-
----
 
 ### 🚀 Featured Projects
 

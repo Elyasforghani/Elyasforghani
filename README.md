@@ -43,7 +43,7 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
   <strong>Animation & Libraries</strong><br>
   <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+
 </p>
 
 ---
@@ -72,11 +72,9 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
     <td width="50%" valign="top">
       <h4 align="center">🔐 Password Strength Checker</h4>
       <p>A utility application providing real-time visual feedback on password complexity.</p>
+       <a href="https://elyasforghani.github.io/password-strength-check/"><b>Live Demo</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🎵 Custom Media Player</h4>
-      <p>An ongoing project leveraging the HTMLMediaElement API for a tailored audio/video experience.</p>
-    </td>
+   
   </tr>
 </table>
 
@@ -96,26 +94,3 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
 </p>
 
-
-### 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h4 align="center">🎲 Modern Dice Game</h4>
-      <img src="https://github.com/user-attachments/assets/920434d0-9a7f-4e78-85ad-7f76cb469aa7" width="100%" alt="Dice Game Preview"/>
-      <p>Interactive multiplayer game with real-time state management and dynamic DOM updates.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/elyasforghani/dice-game"><b>View Repo</b></a> | 
-        <a href="https://elyasforghani.github.io/dice-game/"><b>Live Demo</b></a>
-      </p>
-    </td>
-   
-  </tr>
-</table>
-
----

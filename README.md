@@ -39,7 +39,7 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Core Frontend** | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Core Frontend** | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **Styling & UI Systems** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3_Modern-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Animation & Dynamics** | ![GSAP](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white) ![CSS Motion](https://img.shields.io/badge/Keyframe_Animations-FF69B4?style=flat-square&logo=css3&logoColor=white) |
 | **State, APIs & Tooling** | ![REST APIs](https://img.shields.io/badge/REST_APIs-0055FF?style=flat-square&logo=fastapi&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
@@ -129,7 +129,7 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
         <img src="https://img.shields.io/badge/Type-Next.js_App-10b981?style=flat-square" alt="Next.js App" />
       </p>
       <p>An interactive portfolio website featuring dark-mode aesthetics, custom magnetic cursors, and full GSAP ScrollTrigger timeline orchestration.</p>
-      <p><b>Tech Stack:</b> <code>Next.js 14</code> • <code>TailwindCSS</code> • <code>GSAP</code> • <code>TypeScript</code></p>
+      <p><b>Tech Stack:</b> <code>Next.js 16</code> • <code>TailwindCSS</code> • <code>GSAP</code> • <code>TypeScript</code></p>
       <p align="center">
         <i>🚀 Launching Soon</i>
       </p>

@@ -95,5 +95,5 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
 </p>
-  you see this markdown right?
+
 

@@ -13,10 +13,6 @@
 
 ### 💫 About Me & Philosophy
 
-<h1 align="center">Hi 👋, I'm Elyas Forghani</h1>
-<p align="center">
-  <strong>Passionate Frontend Developer | Crafting Clean & Interactive Web Experiences</strong>
-</p>
 
 <p align="center">
   <a href="https://www.instagram.com/elyasforqani.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>

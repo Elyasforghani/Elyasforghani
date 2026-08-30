@@ -31,32 +31,21 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <strong>Core Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-<p align="left">
-  <strong>Styling & UI</strong><br>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-<p align="left">
-  <strong>Animation & Libraries</strong><br>
-  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
-
-</p>
 
 ---
+### 🛠️ Tech Stack & Arsenal
 
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Core Frontend** | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Styling & UI Systems** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3_Modern-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Animation & Dynamics** | ![GSAP](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white) ![CSS Motion](https://img.shields.io/badge/Keyframe_Animations-FF69B4?style=flat-square&logo=css3&logoColor=white) |
+| **State, APIs & Tooling** | ![REST APIs](https://img.shields.io/badge/REST_APIs-0055FF?style=flat-square&logo=fastapi&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+</div>
+----
 ### 🚀 Highlighted Project Showcase
 
 <table>

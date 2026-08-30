@@ -57,37 +57,96 @@ I am a passionate frontend developer dedicated to crafting highly interactive, p
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted Project Showcase
 
-<table width="100%">
+<table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🏨 Hotel Abbasi</h4>
-      <p>A modern, responsive frontend layout featuring smooth navigation and engaging visual design.</p>
+      <h3 align="center">🌤️ Dynamic Weather Forecast App</h3>
       <p align="center">
-        <a href="https://github.com/Elyasforghani/Hotel-Abbasi"><b>View Repo</b></a>
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Type-API_Integration-0284c7?style=flat-square" alt="API Integration" />
+      </p>
+      <p>A real-time weather forecasting application featuring live location search, asynchronous weather API consumption, dynamic atmospheric cards, and responsive temperature condition views.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> • <code>Weather API</code> • <code>Async/Await</code> • <code>Vercel</code></p>
+      <p align="center">
+        <a href="https://github.com/Elyasforghani/Weather"><b>💻 Source Code</b></a> | 
+        <a href="https://weather-elyasfgi.vercel.app/"><b>🌐 Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🎲 Interactive Dice Game</h4>
-      <p>A dynamic web game utilizing DOM manipulation, custom animations, and state management.</p>
+      <h3 align="center">🏨 Hotel Abbasi Showcase</h3>
       <p align="center">
-        <a href="https://github.com/elyasforghani/dice-game"><b>View Repo</b></a> | 
-        <a href="https://elyasforghani.github.io/dice-game/"><b>Live Demo</b></a>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status Completed" />
+        <img src="https://img.shields.io/badge/Type-Commercial_UI-8b5cf6?style=flat-square" alt="Commercial UI" />
+      </p>
+      <p>A responsive luxury hospitality portal with custom navigation architecture, fluid interactive sliders, and optimized visual storytelling.</p>
+      <p><b>Tech Stack:</b> <code>HTML5</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>Swiper.js</code></p>
+      <p align="center">
+        <a href="https://github.com/Elyasforghani/hotelabbasi-tailwindproject"><b>💻 Source Code</b></a>
       </p>
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🔐 Password Strength Checker</h4>
-      <p>A utility application providing real-time visual feedback on password complexity.</p>
-       <a href="https://elyasforghani.github.io/password-strength-check/"><b>Live Demo</b></a>
+      <h3 align="center">👥 Next.js User Management v2</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status Active" />
+        <img src="https://img.shields.io/badge/Type-Dashboard_App-0070f3?style=flat-square" alt="Dashboard App" />
+      </p>
+      <p>A user management dashboard built with Next.js featuring complete CRUD workflows, validation with React Hook Form, modal states, and clean data tables.</p>
+      <p><b>Tech Stack:</b> <code>Next.js</code> • <code>React Hook Form</code> • <code>Tailwind CSS</code> • <code>CRUD State</code></p>
+      <p align="center">
+        <a href="https://github.com/Elyasforghani/user-m-v2-reacthookform"><b>💻 Source Code</b></a>
+      </p>
     </td>
-   
+    <td width="50%" valign="top">
+      <h3 align="center">🎲 Interactive Dice Game</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Type-Interactive_Game-f97316?style=flat-square" alt="Interactive Game" />
+      </p>
+      <p>A dynamic two-player web game with randomized turn logic, real-time score accumulation, dynamic DOM updates, and fluid keyframe animations.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript ES6+</code> • <code>DOM Manipulation</code> • <code>CSS Keyframes</code></p>
+      <p align="center">
+        <a href="https://github.com/elyasforghani/dice-game"><b>💻 Source Code</b></a> | 
+        <a href="https://elyasforghani.github.io/dice-game/"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Real-Time Password Strength Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Type-Security_Tool-ef4444?style=flat-square" alt="Security Tool" />
+      </p>
+      <p>A utility application providing immediate regex-driven complexity evaluation and visual entropy feedback with dynamic UI transitions as the user types.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> • <code>Regex Engine</code> • <code>Dynamic UI Feedback</code></p>
+      <p align="center">
+        <a href="https://github.com/Elyasforghani/password-strength-check"><b>💻 Source Code</b></a> | 
+        <a href="https://elyasforghani.github.io/password-strength-check/"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Modern Creative Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-eab308?style=flat-square" alt="Status In Progress" />
+        <img src="https://img.shields.io/badge/Type-Next.js_App-10b981?style=flat-square" alt="Next.js App" />
+      </p>
+      <p>An interactive portfolio website featuring dark-mode aesthetics, custom magnetic cursors, and full GSAP ScrollTrigger timeline orchestration.</p>
+      <p><b>Tech Stack:</b> <code>Next.js 14</code> • <code>TailwindCSS</code> • <code>GSAP</code> • <code>TypeScript</code></p>
+      <p align="center">
+        <i>🚀 Launching Soon</i>
+      </p>
+    </td>
   </tr>
 </table>
-
-
 
 ---
 

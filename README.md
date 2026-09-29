@@ -1,38 +1,48 @@
-# Elyas Forghani
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Type-Interactive_Game-f97316?style=flat-square" alt="Interactive Game" />
+      </p>
+      <p>A dynamic two-player web game with randomized turn logic, real-time score accumulation, dynamic DOM updates, and fluid keyframe animations.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript ES6+</code> • <code>DOM Manipulation</code> • <code>CSS Keyframes</code></p>
+      <p align="center">
+        <a href="https://github.com/elyasforghani/dice-game"><b>💻 Source Code</b></a> | 
+        <a href="https://elyasforghani.github.io/dice-game/"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
 
-**Frontend Developer** focused on interactive, high-performance web interfaces with React, Next.js, and GSAP.
-
-[Portfolio](https://elyasforghani.com) · [LinkedIn](https://www.linkedin.com/in/elyas-forghani-b4746b263/) · [Instagram](https://www.instagram.com/elyasforghani.dev) · [Email](mailto:elyasfgidev@gmail.com)
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Real-Time Password Strength Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Type-Security_Tool-ef4444?style=flat-square" alt="Security Tool" />
+      </p>
+      <p>A utility application providing immediate regex-driven complexity evaluation and visual entropy feedback with dynamic UI transitions as the user types.</p>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> • <code>Regex Engine</code> • <code>Dynamic UI Feedback</code></p>
+      <p align="center">
+        <a href="https://github.com/Elyasforghani/password-strength-check"><b>💻 Source Code</b></a> | 
+        <a href="https://elyasforghani.github.io/password-strength-check/"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Modern Creative Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-eab308?style=flat-square" alt="Status In Progress" />
+        <img src="https://img.shields.io/badge/Type-Next.js_App-10b981?style=flat-square" alt="Next.js App" />
+      </p>
+      <p>An interactive portfolio website featuring dark-mode aesthetics, custom magnetic cursors, and full GSAP ScrollTrigger timeline orchestration.</p>
+      <p><b>Tech Stack:</b> <code>Next.js 16</code> • <code>TailwindCSS</code> • <code>GSAP</code> • <code>TypeScript</code></p>
+      <p align="center">
+        <i>🚀 Launching Soon</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## About
-
-I build responsive, animation-rich interfaces that combine clean design with solid engineering. My path into tech came through chemical engineering, teaching, and technical operations, which gave me a systematic approach to problem-solving and a strong eye for detail.
-
-Currently focused on advanced UI patterns, scroll-driven animation, and building immersive web experiences with Next.js.
-
-## Tech Stack
-
-| Area | Tools |
-| :--- | :--- |
-| **Frontend** | React, Next.js (App Router), JavaScript (ES6+), HTML5, CSS3 |
-| **Styling** | Tailwind CSS, Bootstrap |
-| **Animation** | GSAP (ScrollTrigger), Swiper.js, CSS keyframes |
-| **Forms & APIs** | React Hook Form, REST APIs |
-| **Tooling** | Git, GitHub, Vercel |
-
-## Selected Projects
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Creative Portfolio** | Interactive portfolio with dark-mode design, custom magnetic cursor, and GSAP ScrollTrigger timelines | Next.js, Tailwind, GSAP | [Live](https://elyasforghani.com) |
-| **User Management Dashboard** | CRUD dashboard with form validation, modals, and data tables | Next.js, React Hook Form, Tailwind | [Code](https://github.com/Elyasforghani/user-m-v2-reacthookform) |
-| **Weather Forecast App** | Live location search and real-time weather data via async API calls | JavaScript, Weather API | [Code](https://github.com/Elyasforghani/Weather) · [Live](https://weather-elyasfgi.vercel.app/) |
-| **Hotel Abbasi** | Responsive luxury hospitality site with custom navigation and sliders | HTML, Tailwind, Swiper.js | [Code](https://github.com/Elyasforghani/hotelabbasi-tailwindproject) |
-| **Password Strength Checker** | Regex-based complexity evaluation with live visual feedback | JavaScript | [Code](https://github.com/Elyasforghani/password-strength-check) · [Live](https://elyasforghani.github.io/password-strength-check/) |
-| **Dice Game** | Two-player game with turn logic, score tracking, and CSS animations | JavaScript, CSS | [Code](https://github.com/elyasforghani/dice-game) · [Live](https://elyasforghani.github.io/dice-game/) |
-
-## Contact
-
-Open to frontend opportunities and freelance projects. Reach me at [elyasfgidev@gmail.com](mailto:elyasfgidev@gmail.com).
+### ✍️ Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
+</p>
